@@ -3,11 +3,11 @@ ProjectPath is a collaborative web-based platform that empowers users to create,
 
 # TECHSTACK
   ## FRONTEND:
-    ### NEXT.JS OR
-    ### VUE.JS
+  ### NEXT.JS OR
+  ### VUE.JS
   ## BACKEND:
-    ### DJANGO
+  ### DJANGO
   ## DEPLOYMENT:
-    ### VERCEL
+  ### VERCEL
   ## DATABASE:
-    ### POSTGRES
+  ### POSTGRES

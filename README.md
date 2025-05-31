@@ -19,7 +19,7 @@ ProjectPath is a collaborative web-based platform that empowers users to create,
 - TUTORIALS/CARD (Liked, Bookmarks, Share)
 - CREATE/UPLOAD
 - FILTER
-- SEARCH BAR (TITLE
+- SEARCH BAR (TITLE)
 - FOOTER (INFO)
 3. SAVED/BOOKMARKS
 - SAVED TUTORIAL (REMOVE FROM BOOKMARKS)

@@ -53,7 +53,7 @@ ProjectPath is a collaborative web-based platform that empowers users to create,
 4. Home Improvement
 - (e.g., furniture making, repairs, interior decor)
 5. Cooking & Recipes
-(e.g., meal prep, baking, kitchen tips)
+- (e.g., meal prep, baking, kitchen tips)
 6. Performing Arts
 - (e.g., singing, dancing, theater)
 7. Education & Study Tips
